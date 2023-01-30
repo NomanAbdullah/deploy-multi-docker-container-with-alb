@@ -25,12 +25,13 @@ Make sure you replace the `MACHINE_IP` with your current machine address. Make t
 
 ## Output
 
-| ![containera](https://i.imgur.com/m4qTMI6.png) |
+| ![containerb](https://i.imgur.com/HHQ6dpN.png) |
 | -------- |
 | <center>Figure 01: `Container A` web access</center> |
 
-| ![containerb](https://i.imgur.com/HHQ6dpN.png) |
+| ![containera](https://i.imgur.com/m4qTMI6.png) |
 | -------- |
 | <center>Figure 02: `Container B` web access</center> |
+
 
 ## Thank you
