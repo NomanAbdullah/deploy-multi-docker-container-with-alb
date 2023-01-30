@@ -12,6 +12,7 @@ An automated bash script to deploy two `docker` containers with Nginx as applica
 Make sure you replace the `MACHINE_IP` with your current machine address. Make the code executable with `chmod +x multidockerautomation.sh`.
 
 ## Directory tree
+```
 .
 ├── ContainerA
 │   ├── Dockerfile
@@ -20,6 +21,7 @@ Make sure you replace the `MACHINE_IP` with your current machine address. Make t
 │   ├── Dockerfile
 │   └── index.html
 └── docker-compose.yaml
+```
 
 ## Output
 
