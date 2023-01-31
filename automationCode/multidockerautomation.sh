@@ -87,7 +87,7 @@ docker-compose up -d
 
 # Step 5: Install Nginx in the host machine and configure ALB
 echo ""
-echo "[Step 4] Let's install and configure Nginx as ALB"
+echo "[Step 5] Let's install and configure Nginx as ALB"
 apt-get update -y
 apt-get install nginx -y
 
